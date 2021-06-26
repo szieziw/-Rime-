@@ -1,0 +1,19 @@
+var:
+  last_build_time: 1624670340
+  option:
+    extended_charset: false
+    full_shape: false
+    simplification: false
+  previously_selected_schema: cangjie6
+  schema_access_time:
+    bopomofo: 1624515119
+    bopomofo_tw: 1624532783
+    cangjie5: 1624535643
+    cangjie6: 1624670431
+    double_pinyin: 1624509616
+    emoji: 1412003948
+    en2cn: 1617875385
+    japanese: 1624670399
+    quick5: 1621482568
+    stroke: 1599880723
+    sunman: 1623985541
